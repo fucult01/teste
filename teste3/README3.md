@@ -1,3 +1,3 @@
-lista
-de
+list
+of
 things
